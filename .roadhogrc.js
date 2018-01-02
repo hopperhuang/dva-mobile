@@ -15,6 +15,10 @@ export default {
           propWhiteList: [],
         }),
       ],
+      "browserslist": [
+        "> 1%",
+        "last 2 versions"
+      ]
     },
     "production": {
       "extraBabelPlugins": [
@@ -27,6 +31,10 @@ export default {
           propWhiteList: [],
         }),
       ],
+      "browserslist": [
+        "> 1%",
+        "last 2 versions"
+      ]
     }
   }
 }
