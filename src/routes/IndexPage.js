@@ -9,6 +9,7 @@ function IndexPage() {
     <div className={styles.normal}>
       <div className={styles.test} >
         <Button>这里是一个button</Button>
+        <div className={styles.another} >这里是另外一个区域</div>
       </div>
     </div>
   );
