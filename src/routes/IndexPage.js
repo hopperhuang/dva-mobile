@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'dva';
 import { Button } from 'antd-mobile';
-import styles from './IndexPage.css';
+import styles from './IndexPage.less';
 
 
 function IndexPage() {
