@@ -1,6 +1,6 @@
 import dva from 'dva';
 import './index.css';
-
+console.log(222)
 // 1. Initialize
 const app = dva();
 
